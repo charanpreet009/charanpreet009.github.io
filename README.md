@@ -20,7 +20,7 @@
  <h3 align="left">My Excel Certificate</h3>
  ![Excel Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5073424/original/Charanpreet_singh20240725-72-q43gso.jpg)
 
- <h3 align="left"Achievement from the Excel Course</h3>
+ <h3 align="left">Achievement from the Excel Course</h3>
 
  Examples of Excel functions:
 
