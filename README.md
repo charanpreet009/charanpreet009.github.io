@@ -17,6 +17,26 @@
 
  • Singing
 
+
+<h2 align=left>EDUCTION</h2>
+
+Class 10
+
+From
+
+### GOVT. HIGH SCHOOL, KAILASH NAGAR (ludhiana)
+
+
+| Subject     | Obtained marks | Total marks |
+|-------------|-------|-------|
+| English     | 86   | 100     |
+| Math   | 59    | 100     |
+| Science |  88   | 100     |
+| Punjabi     | 130    | 150     |
+| Social Studies   |  77   | 100    |
+
+
+
  <h3 align="left">My Excel Certificate</h3>
  ![Excel Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5073424/original/Charanpreet_singh20240725-72-q43gso.jpg)
 
@@ -53,22 +73,6 @@
 
 • Example: If you have numbers and blank cells in cells A1 to A5, COUNT(A1:A5) would count how many cells contain numbers.
 
-<h2 align=left>EDUCTION</h2>
-
-Class 10
-
-From
-
-# GOVT. HIGH SCHOOL, KAILASH NAGAR (ludhiana)
-
-
-| Subject     | Obtained marks | Total marks |
-|-------------|-------|-------|
-| English     | 86   | 100     |
-| Math   | 59    | 100     |
-| Science | 92    | A     |
-| Punjabi     | 85    | B     |
-| Social Studies   | 90    | A     |
 
 
 
