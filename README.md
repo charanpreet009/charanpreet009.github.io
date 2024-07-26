@@ -27,6 +27,7 @@ From
 ### GOVT. HIGH SCHOOL, KAILASH NAGAR (LUDHIANA)
 
 Marks Detail
+
 | Subject     | Obtained marks | Total marks |
 |-------------|-------|-------|
 | English     | 86   | 100     |
