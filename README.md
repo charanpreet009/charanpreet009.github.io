@@ -22,7 +22,6 @@
 
  <h3 align="left">Achievement from the Excel Course</h3>
 
- Examples of Excel functions:
 
 ### SUM Function:
 
@@ -54,7 +53,22 @@
 
 • Example: If you have numbers and blank cells in cells A1 to A5, COUNT(A1:A5) would count how many cells contain numbers.
 
- 
+<h2 align=left>EDUCTION</h2>
+
+Class 10
+
+From
+
+# GOVT. HIGH SCHOOL, KAILASH NAGAR (ludhiana)
+
+
+| Subject     | Obtained marks | Total marks |
+|-------------|-------|-------|
+| English     | 86   | 100     |
+| Math   | 59    | 100     |
+| Science | 92    | A     |
+| Punjabi     | 85    | B     |
+| Social Studies   | 90    | A     |
 
 
 
