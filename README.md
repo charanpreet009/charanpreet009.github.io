@@ -6,8 +6,8 @@
  I am from ludhiana "Punjab" . I'm a first-year computer science student at Guru Nanak Dev Engineering College (GNDEC). I'm passionate about technology and eager to learn more about programming and software development. I’m excited to meet new people and make the most of my time here at GNDEC."
 
 ## About my studies 
- • Pursuing Pursuing Bachelor's in Computer Science.
- • Currently in First Year 
+ • Pursuing Pursuing Bachelor's in Computer Science.  
+• Currently in First Year
 
  <h3 align="left">Skills</h3>
 
@@ -18,15 +18,15 @@
  • Singing
 
 
-<h2 align=left>EDUCTION</h2>
+<h2 align=left>EDUCATION</h2>
 
-Class 10
+### Class 10
 
 From
 
-### GOVT. HIGH SCHOOL, KAILASH NAGAR (ludhiana)
+### GOVT. HIGH SCHOOL, KAILASH NAGAR (LUDHIANA)
 
-
+Marks Detail
 | Subject     | Obtained marks | Total marks |
 |-------------|-------|-------|
 | English     | 86   | 100     |
@@ -35,6 +35,23 @@ From
 | Punjabi     | 130    | 150     |
 | Social Studies   |  77   | 100    |
 
+### Class 12
+
+ From
+
+ GOVT. SENIOR SECONDRY SCHOOL MULTIPURPOSE (LUDHIANA)
+
+Strem = Science 
+
+ Marks Detail
+
+ | Subject     | Obtained Marks | Total |
+|-------------|-------|-------|
+| Math        | 87    | 100     |
+| Physics     | 79    | 100     |
+| Chemistry   | 94    | 100     |
+| Punjabi     | 96    | 100     |
+| English     | 92    | 100     |
 
 
  <h3 align="left">My Excel Certificate</h3>
