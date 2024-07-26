@@ -9,18 +9,18 @@
  • Pursuing Pursuing Bachelor's in Computer Science.
  • Currently in First Year 
 
- ## Skills 
+ <h3 align="left">Skills</h3>
 
  • Good Communication Skills
 
- ## Hobbies 
+ <h3 align="left">Hobbies</h3>
 
  • Singing
 
- ## My Excel Certificate 
+ <h3 align="left">My Excel Certificate</h3>
  ![Excel Certificate](https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/5073424/original/Charanpreet_singh20240725-72-q43gso.jpg)
 
- ## Achievement from the Excel Course
+ <h3 align="left"Achievement from the Excel Course</h3>
 
  Examples of Excel functions:
 
